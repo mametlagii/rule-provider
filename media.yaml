@@ -1823,3 +1823,131 @@ payload:
   - DOMAIN-SUFFIX,hzmk.site
   - DOMAIN-KEYWORD,bigo.
   - DOMAIN-KEYWORD,bigo-
+
+# > Pandora
+  - DOMAIN-SUFFIX,pandora.com
+
+# > SoundCloud
+# - USER-AGENT,SoundCloud*
+  - DOMAIN-SUFFIX,sndcdn.com
+  - DOMAIN-SUFFIX,soundcloud.com
+
+
+
+
+# Search Domain
+  - DOMAIN-KEYWORD,joox
+  - DOMAIN-KEYWORD,soundcloud
+  - DOMAIN-KEYWORD,resso
+
+# > Anime
+  - DOMAIN-SUFFIX,anoboy.watch
+  - DOMAIN-SUFFIX,neonime.co
+  - DOMAIN-SUFFIX,gomunime.is
+  - DOMAIN-SUFFIX,9anime.cz
+  - DOMAIN-SUFFIX,9anime.id
+  - DOMAIN-SUFFIX,9anime.to
+  - DOMAIN-SUFFIX,9anime.ws
+  - DOMAIN-SUFFIX,animedao-tv.com
+  - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN-SUFFIX,funimation.com
+  - DOMAIN-SUFFIX,gogo-load.com
+  - DOMAIN-SUFFIX,gogoanime.vc
+  - DOMAIN-SUFFIX,gogoanime.wiki
+  - DOMAIN-SUFFIX,gogocdn.net
+  - DOMAIN-SUFFIX,hidive.com
+  - DOMAIN-SUFFIX,vrv.co
+  - DOMAIN-SUFFIX,animedao-tv.com
+  - DOMAIN-SUFFIX,animekayo.com
+  - DOMAIN-SUFFIX,kayoanime.com
+  - DOMAIN-SUFFIX,9anime-tv.com
+  - DOMAIN-SUFFIX,kissanime.ru
+  - DOMAIN-SUFFIX,animedao.com
+  - DOMAIN-SUFFIX,animelab.com
+  - DOMAIN-SUFFIX,anime-planet.com
+  - DOMAIN-SUFFIX,viz.com
+  - DOMAIN-SUFFIX,animeheaven.ru
+  - DOMAIN-SUFFIX,animefreak.tv
+  - DOMAIN-SUFFIX,contv.com
+  - DOMAIN-SUFFIX,asiancrush.com
+  - DOMAIN-SUFFIX,animetake.tv
+  - DOMAIN-SUFFIX,aniplus-asia.com
+  - DOMAIN-SUFFIX,tubi.tv
+  - DOMAIN-SUFFIX,midnightpulp.com
+  - DOMAIN-SUFFIX,animebee.to
+  - DOMAIN-KEYWORD,gogoplay
+  - DOMAIN-KEYWORD,gogoanime
+  - DOMAIN-KEYWORD,9anime
+
+# > Amazon Video
+  - DOMAIN-SUFFIX,aiv-cdn.net
+  - DOMAIN-SUFFIX,aiv-delivery.net
+  - DOMAIN-SUFFIX,amazonvideo.com
+  - DOMAIN-SUFFIX,atv-ext-eu.amazon.com
+  - DOMAIN-SUFFIX,atv-ext-fe.amazon.com
+  - DOMAIN-SUFFIX,atv-ext.amazon.com
+  - DOMAIN-SUFFIX,atv-ps-eu.amazon.co.uk
+  - DOMAIN-SUFFIX,atv-ps-eu.amazon.com
+  - DOMAIN-SUFFIX,atv-ps-fe.amazon.co.jp
+  - DOMAIN-SUFFIX,atv-ps-fe.amazon.com
+  - DOMAIN-SUFFIX,atv-ps.amazon.com
+  - DOMAIN-SUFFIX,primevideo.com
+  - DOMAIN-SUFFIX,pv-cdn.net
+
+# > Apple TV
+  - DOMAIN-SUFFIX,tv.apple.com
+  - DOMAIN-SUFFIX,tv.g.apple.com
+  - DOMAIN-SUFFIX,tv.v.aaplimg.com
+
+# > Dailymotion
+  - DOMAIN-SUFFIX,dai.ly
+  - DOMAIN-SUFFIX,dailymotion.com
+  - DOMAIN-SUFFIX,dailymotionadvertising.com
+  - DOMAIN-SUFFIX,dmcdn.net
+  - DOMAIN-SUFFIX,dmxleo.com
+
+# > IQiyi
+  - DOMAIN-SUFFIX,iq.com
+  - DOMAIN-SUFFIX,iqiyi.com
+  - DOMAIN-SUFFIX,iqiyipic.com
+  - DOMAIN-SUFFIX,pps.tv
+  - DOMAIN-SUFFIX,ppstream.com
+  - DOMAIN-SUFFIX,qiyi.com
+  - DOMAIN-SUFFIX,qiyipic.com
+  - DOMAIN-SUFFIX,qy.net
+
+# > Plex
+  - DOMAIN-SUFFIX,plex.bz
+  - DOMAIN-SUFFIX,plex.direct
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,plexapp.com
+
+# > Soundcloud
+  - DOMAIN-SUFFIX,sndcdn.com
+  - DOMAIN-SUFFIX,soundcloud.app.goo.gl
+  - DOMAIN-SUFFIX,soundcloud.com
+  - DOMAIN-SUFFIX,soundcloudmail.com
+
+# > TuneIn
+  - DOMAIN-SUFFIX,radiotime.com
+  - DOMAIN-SUFFIX,tunein.com
+  - DOMAIN-SUFFIX,tunenet.io
+# > Twitch TV
+  - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,jtvnw.net
+  - DOMAIN-SUFFIX,live-video.net
+  - DOMAIN-SUFFIX,ttvnw.net
+  - DOMAIN-SUFFIX,twitch.okta.com
+  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,twitchcdn.net
+  - DOMAIN-SUFFIX,twitchsvc.net
+# > Vevo
+  - DOMAIN-SUFFIX,vevo.com
+  - DOMAIN-SUFFIX,vevodev.com
+  - DOMAIN-SUFFIX,vevoprd.com
+  - DOMAIN-SUFFIX,vevostg.com
+# > Vimeo
+  - DOMAIN-SUFFIX,vimeo.com
+  - DOMAIN-SUFFIX,vimeocdn.com
+
+  
