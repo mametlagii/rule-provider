@@ -1,0 +1,18 @@
+payload:
+
+# > Disney Plus
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disneyplus.disney.co.jp
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,search-api-disney.bamgrid.com
+  - DOMAIN-SUFFIX,starott.com
+  - DOMAIN-SUFFIX,bifrost-api.hotstar.com
+  - DOMAIN-SUFFIX,img1.hotstarext.com
+  - DOMAIN-SUFFIX,persona.hotstar.com
+  - DOMAIN-SUFFIX,api.hotstar.com
+  - DOMAIN-KEYWORD,hotstar.com
+  - DOMAIN-KEYWORD,hotstarext.com
+
+   #Disney+ Hotstar, Aplikasi berbayar tidak sempat torch
+  - DOMAIN-SUFFIX,hotstar.com
