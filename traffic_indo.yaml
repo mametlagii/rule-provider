@@ -16,6 +16,9 @@ payload:
 
    #Disney+ Hotstar, Aplikasi berbayar tidak sempat torch
   - DOMAIN-SUFFIX,hotstar.com
+
+
+
   - DOMAIN-KEYWORD,hotstar.com
   - DOMAIN-KEYWORD,hotstarext.com
   - DOMAIN-KEYWORD,disneyplus
