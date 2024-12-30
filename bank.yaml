@@ -487,3 +487,6 @@ payload:
   - DOMAIN-KEYWORD,byu.id
   - DOMAIN-KEYWORD,liveon.id
 
+# Client Patch
+  - DOMAIN-KEYWORD,xl.co.id
+
